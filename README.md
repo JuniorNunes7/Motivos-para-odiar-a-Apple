@@ -31,3 +31,5 @@
 15 - O Felipe Neto usa.
 
 16 - O novo iPhone 12 vem custando mais caro, e sem carregador e fone de ouvido.
+
+17 - Xcode de 22 GB que exige um espaço de 40 GB pra ser instalado.
