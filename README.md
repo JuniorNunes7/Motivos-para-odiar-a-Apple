@@ -29,3 +29,5 @@
 14 - [Computador de mais de 480 mil reais](https://www.techtudo.com.br/noticias/2020/02/apple-comeca-a-vender-mac-pro-no-brasil-preco-pode-chegar-a-r-438-mil.ghtml).
 
 15 - O Felipe Neto usa.
+
+16 - O novo iPhone 12 vem custando mais caro, e sem carregador e fone de ouvido.
