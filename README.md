@@ -19,3 +19,13 @@
 9 - Sistema engessado, não é possível fazer modificações facilmente.
 
 10 - Acessórios vendidos separadamente e com um preço altíssimo.
+
+11 - Steve Jobs não dava dinheiro pra filha.
+
+12 - A Apple se acha a pica das galáxias, mas na verdade só dá sorte dos produtos terem sido relacionados a um padrão alto e eles conseguirem vender um produto que custou $20 pra ser fabricado por $999.
+
+13 - Explora os chineses.
+
+14 - [Computador de mais de 480 mil reais](https://www.techtudo.com.br/noticias/2020/02/apple-comeca-a-vender-mac-pro-no-brasil-preco-pode-chegar-a-r-438-mil.ghtml).
+
+15 - O Felipe Neto usa.
