@@ -34,4 +34,10 @@
 
 17 - Xcode de 22 GB que exige um espaço de 40 GB pra ser instalado.
 
-18 - Tecla command
+18 - Tecla command.
+
+19 - Trava com alguns caracteres diferentes.
+
+20 - Obriga você a seguir o padrão que eles julgam bom, tirando sua autonomia de fazer um aplicativo da forma que você quer.
+
+21 - O padrão deles nem sempre é bom, como o tradução do botão "Sign in with Apple", em que eles exigem que seja exatamente: "Iniciar sessão com a Apple", ao invés de "Entrar com a Apple".
