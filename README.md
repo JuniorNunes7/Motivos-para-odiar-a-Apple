@@ -41,3 +41,5 @@
 20 - Obriga você a seguir o padrão que eles julgam bom, tirando sua autonomia de fazer um aplicativo da forma que você quer.
 
 21 - O padrão deles nem sempre é bom, como o tradução do botão "Sign in with Apple", em que eles exigem que seja exatamente: "Iniciar sessão com a Apple", ao invés de "Entrar com a Apple".
+
+22 - [PC de 150 pau que não consegue rodar minecraft e chrome ao mesmo tempo](https://twitter.com/felipeneto/status/1286415677579034624).
