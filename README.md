@@ -43,3 +43,5 @@
 21 - O padrão deles nem sempre é bom, como o tradução do botão "Sign in with Apple", em que eles exigem que seja exatamente: "Iniciar sessão com a Apple", ao invés de "Entrar com a Apple".
 
 22 - [PC de 150 pau que não consegue rodar minecraft e chrome ao mesmo tempo](https://twitter.com/felipeneto/status/1286415677579034624).
+
+23 - [Cabo de 1.300 conto](https://tecnoblog.net/354920/apple-lanca-cabo-thunderbolt-3-por-r-1-299/).
