@@ -45,3 +45,5 @@
 22 - [PC de 150 pau que não consegue rodar minecraft e chrome ao mesmo tempo](https://twitter.com/felipeneto/status/1286415677579034624).
 
 23 - [Cabo de 1.300 conto](https://tecnoblog.net/354920/apple-lanca-cabo-thunderbolt-3-por-r-1-299/).
+
+24 - [Memória de 26.000 conto](https://macmagazine.uol.com.br/post/2020/08/05/e-os-precos-que-a-apple-cobra-para-upgrade-de-ram-continuam-absurdos). 
