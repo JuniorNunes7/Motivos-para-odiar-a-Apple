@@ -2,7 +2,7 @@
 
 1 - Os preços dos produtos são absurdamente altos.
 
-2 - A licensa de desenvolvedor custa 99 dólares anuais.
+2 - A licença de desenvolvedor custa 99 dólares anuais.
 
 3 - Caso você não pague mais a licensa de desenvolvedor todos os seus aplicativos são tirados da loja.
 
