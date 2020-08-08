@@ -47,3 +47,5 @@
 23 - [Cabo de 1.300 conto](https://tecnoblog.net/354920/apple-lanca-cabo-thunderbolt-3-por-r-1-299/).
 
 24 - [Memória de 26.000 conto](https://macmagazine.uol.com.br/post/2020/08/05/e-os-precos-que-a-apple-cobra-para-upgrade-de-ram-continuam-absurdos). 
+
+25 - [Dificulta sem motivos a expansão de memória](https://macmagazine.uol.com.br/post/2020/08/06/ssd-do-novo-imac-e-soldado-a-placa-ifixit-aumenta-pontuacao-de-reparabilidade-do-modelo-de-2019). 
