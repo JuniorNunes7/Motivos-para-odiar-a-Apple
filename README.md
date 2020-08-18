@@ -51,3 +51,5 @@
 25 - [Dificulta sem motivos a expansão de memória](https://macmagazine.uol.com.br/post/2020/08/06/ssd-do-novo-imac-e-soldado-a-placa-ifixit-aumenta-pontuacao-de-reparabilidade-do-modelo-de-2019). 
 
 26 - [Remove aplicativos só porque não usam o método de pagamento deles](https://macmagazine.uol.com.br/post/2020/08/13/fortnite-e-removido-da-app-store-horas-apos-implementar-sistema-de-pagamento-proprio/).
+
+27 - [Se junta com o banco mais bosta do Brasil](https://tecnoblog.net/360074/itau-lanca-programa-iphone-pra-sempre-em-parceria-com-apple/).
